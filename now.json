@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "name": "grid-wiz-performance-test",
+  "alias": ["grid-wiz-performance-test"],
+  "scale": {
+    "bru1": {
+      "min": 1,
+      "max": "auto"
+    },
+    "sfo1": {
+      "min": 1,
+      "max": "auto"
+    }
+  }
+}
